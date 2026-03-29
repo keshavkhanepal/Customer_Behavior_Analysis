@@ -35,7 +35,9 @@ Data Querying	SQL (PostgreSQL / MySQL / SQL Server)
 Visualization	Power BI
 Presentation	Gamma (PPT)
 Environment	Jupyter Notebook
+
 🔄 Project Workflow
+
 🧹 1. Data Cleaning (Python)
 Loaded dataset using pandas
 Handled missing values
@@ -43,10 +45,12 @@ Standardized column names
 Feature engineering:
 Age groups
 Purchase frequency
+
 📊 2. Exploratory Data Analysis
 Statistical summaries
 Trend analysis
 Customer behavior insights
+
 🗄️ 3. SQL Analysis
 
 Performed business-driven queries such as:
@@ -96,10 +100,13 @@ pip install pandas numpy matplotlib seaborn
 python analysis.py
 Database Setup
 Import dataset into PostgreSQL/MySQL/SQL Server
+
 Run queries from:
 customer_behavior_sql_queries.sql
+
 Dashboard
 Open .pbix file in Power BI Desktop
+
 📂 Project Structure
 customer-shopping-analysis/
 │
@@ -127,10 +134,10 @@ customer-shopping-analysis/
 📄 Report: Customer Shopping Behavior Analysis.pdf
 📊 Presentation: Customer-Shopping-Behavior-Analysis.pptx
 🗄️ SQL Queries: Included
+
 🚀 Future Improvements
 Add predictive modeling (customer churn / CLV)
 Deploy dashboard online
 Automate data pipeline
-🤝 Connect with Me
 
 If you like this project, feel free to connect on LinkedIn and give a ⭐ to the repo!
