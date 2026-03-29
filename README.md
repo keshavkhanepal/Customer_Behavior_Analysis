@@ -12,7 +12,7 @@ The objective is to help businesses make data-driven decisions to improve sales,
 A retail company wants to understand:
 
 What drives customer purchases?
-How discounts, subscriptions, and shipping impact revenue
+How discounts, subscriptions, and shipping impact revenue ?
 How to improve customer retention and loyalty
 
 👉 The goal: Optimize marketing & product strategies using data insights
@@ -52,19 +52,14 @@ Trend analysis
 Customer behavior insights
 
 🗄️ 3. SQL Analysis
-
 Performed business-driven queries such as:
-
 Revenue by gender
 Top-rated products
 Discount impact
 Subscription vs non-subscription
 Customer segmentation
 
-📄 SQL file:
-
 📊 4. Dashboard (Power BI)
-
 Developed an interactive dashboard to visualize:
 
 KPIs (Customers, Avg Spend, Ratings)
@@ -89,6 +84,7 @@ Subscription insights
 💸 Optimize discount strategies
 📢 Focus on high-value customer segments
 🛍️ Highlight top-rated products
+
 ▶️ How to Run
 # Clone the repository
 git clone https://github.com/your-username/customer-shopping-analysis.git
@@ -109,7 +105,6 @@ Open .pbix file in Power BI Desktop
 
 📂 Project Structure
 customer-shopping-analysis/
-│
 ├── data/
 │   └── customer_shopping_behavior.csv
 ├── sql/
@@ -122,22 +117,18 @@ customer-shopping-analysis/
 ├── notebooks/
 │   └── analysis.ipynb
 └── README.md
-🏆 What This Project Demonstrates
-
-✔ End-to-end Data Analytics workflow
-✔ Python for data cleaning & EDA
-✔ SQL for business problem solving
-✔ Power BI dashboarding
-✔ Business insights & storytelling
 
 📎 Project Assets
 📄 Report: Customer Shopping Behavior Analysis.pdf
 📊 Presentation: Customer-Shopping-Behavior-Analysis.pptx
 🗄️ SQL Queries: Included
 
-🚀 Future Improvements
+⭐ Future Improvements
 Add predictive modeling (customer churn / CLV)
 Deploy dashboard online
 Automate data pipeline
+
+🚀 Conclusion
+This project demonstrates an end-to-end data analytics workflow — from data cleaning and SQL analysis to dashboard creation and business recommendations — making it a strong portfolio project for data analyst roles.
 
 If you like this project, feel free to connect on LinkedIn and give a ⭐ to the repo!
