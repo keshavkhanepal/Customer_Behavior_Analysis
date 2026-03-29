@@ -1,6 +1,6 @@
 🛍️ Customer Shopping Behavior Analysis
 
-
+<img width="1919" height="1079" alt="Screenshot 2026-03-29 175201" src="https://github.com/user-attachments/assets/5ccf0d0e-0451-4116-b033-6739d48ec4fa" />
 
 
 
@@ -22,6 +22,7 @@ How to improve customer retention and loyalty
 📊 Dataset
 📦 Records: 3,900 transactions
 📑 Features: 18 columns
+
 🧩 Includes:
 Demographics (Age, Gender, Location)
 Purchase details (Item, Category, Amount)
