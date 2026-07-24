@@ -2,8 +2,6 @@
 
 > End-to-end customer analytics project analyzing shopping behavior to uncover purchasing trends, customer segments, and revenue-driving insights using **Python, SQL, Excel, and Power BI**.
 
-<img width="1919" height="1079" alt="Screenshot 2026-03-29 175201" src="https://github.com/user-attachments/assets/5ccf0d0e-0451-4116-b033-6739d48ec4fa" />
-
 ---
 
 ## 📌 Project Overview
@@ -31,6 +29,12 @@ The complete analytics workflow includes:
 | 📊 Dashboard Pages | 3 |
 | 📉 Business KPIs | 15+ |
 | 📈 Visualizations | 20+ |
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-29 175201" src="https://github.com/user-attachments/assets/5ccf0d0e-0451-4116-b033-6739d48ec4fa" />
 
 ---
 
